@@ -28,6 +28,14 @@ export const skills = [
 ];
 
 export const projects = [
+   {
+    title: "Food Recipe Website",
+    description:
+      "Developed a responsive food recipe website where users can search recipes and view recipe details.Implemented recipe cards with images, cooking time, ratings, ingredients, and step-by-step cooking instructions.Added favorites functionality to save and remove selected recipes and created a simple recipe assistant chatbox.",
+    technologies: "React JS, JavaScript, CSS",
+    githubLink: "https://github.com/yagneswari-g/food-recipe.git",
+    liveLink: "ornate-strudel-food-recipe.netlify.app",
+  },
   {
     title: "Portfolio Website",
     description:
@@ -44,12 +52,5 @@ export const projects = [
     githubLink: "https://github.com/yagneswari-g/employee-management-project",
     liveLink: "#",
   },
-  {
-    title: "Food Recipe Website",
-    description:
-      "Developed a responsive food recipe website where users can search recipes and view recipe details.Implemented recipe cards with images, cooking time, ratings, ingredients, and step-by-step cooking instructions.Added favorites functionality to save and remove selected recipes and created a simple recipe assistant chatbox.",
-    technologies: "React JS, JavaScript, CSS",
-    githubLink: "https://github.com/yagneswari-g/food-recipe.git",
-    liveLink: "ornate-strudel-food-recipe.netlify.app",
-  },
+ 
 ];
