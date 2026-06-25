@@ -42,7 +42,7 @@ export const projects = [
       "A personal portfolio website built using React JS to showcase my resume, skills, projects, education, and contact details.",
     technologies: "React JS, JavaScript, HTML, CSS",
     githubLink: "https://github.com/yagneswari-g/portfolio",
-    liveLink: "#",
+    liveLink: "https://yagneswarig-portfolio.netlify.app/projects",
   },
   {
     title: "Employee Management System",
